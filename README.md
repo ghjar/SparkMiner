@@ -10,7 +10,7 @@ SparkMiner is optimized firmware for ESP32-based boards with displays, deliverin
 
 ---
 
-## Quick Start
+## Quick  Start
 
 ### Option 1: Launcher + SD Card (Recommended for CYD Boards)
 
