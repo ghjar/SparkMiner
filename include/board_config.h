@@ -68,7 +68,7 @@
 
     // Backlight
     #ifndef TFT_BL_PIN
-        #define TFT_BL_PIN 21
+        #define TFT_BL_PIN 27
     #endif
 
     // Button
